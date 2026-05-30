@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2784 games in 240 unique mapping groups
+# 2785 games in 240 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -202,6 +202,9 @@
 # 4-button (punches+kicks) (9 games: cencourt, cencourt, passsht, passsht, passsht16a, passshta, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:passsht*,mistercore:cencourt,platform:MiSTer
 
+# directions only (9 games: citycon, citycona, cruisin, dcon, ninjaw, ninjaw1, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:dcon,mistercore:sdgndmps,platform:MiSTer
+
 # 1-button (9 games: crackhea, housepty, mappy, mappyj, marpy, popeye, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:todruaga*,mistercore:mappy*,mistercore:crackhea,mistercore:housepty,mistercore:marpy,mistercore:popeye,platform:MiSTer
 
@@ -216,9 +219,6 @@
 
 # 2-button (8 games: athena, athena, athenab, athenab, athenaff, athenaff, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:athena*,mistercore:sathena,platform:MiSTer
-
-# directions only (8 games: citycon, citycona, cruisin, ninjaw, ninjaw1, ninjawj, ...)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:sdgndmps,platform:MiSTer
 
 # 2-button (8 games: psychic5, psychic5, psychic5j, psychic5j, suprloco, suprloco, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:psychic5*,mistercore:suprloco*,platform:MiSTer
