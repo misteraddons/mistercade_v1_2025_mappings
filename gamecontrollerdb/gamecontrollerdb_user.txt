@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2797 games in 245 unique mapping groups
+# 2824 games in 246 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -19,14 +19,14 @@
 # 2-button (236 games: 1943, 1943ua, 1943ua, akumajou, akumajou, akumajoun, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:vendetta*,mistercore:simpsons*,mistercore:tnzs*,mistercore:snowbros*,mistercore:rthunder*,mistercore:wwfwfest*,mistercore:ctribe*,mistercore:extrmatn*,mistercore:kageki*,mistercore:thunderx*,mistercore:tmntu*,mistercore:drtoppel*,mistercore:hcastle*,mistercore:insectx*,mistercore:roadf*,mistercore:scontra*,mistercore:suratk*,mistercore:wwfsstaru*,mistercore:akumajou*,mistercore:aliensj*,mistercore:flkatck*,mistercore:gbusters*,mistercore:prmrsocr*,mistercore:skykiddx*,mistercore:tmht2p*,mistercore:tmnt2p*,mistercore:yiear*,mistercore:1943,mistercore:1943ua,mistercore:aliens,mistercore:aliens2,mistercore:aliens3,mistercore:aliens4,mistercore:aliensa,mistercore:aliensu,mistercore:crazycop,mistercore:genpeitd,mistercore:kabukiz,mistercore:mx5000,mistercore:raiga,mistercore:rygarj,mistercore:stratof,mistercore:tekipaki,mistercore:tmht,mistercore:tmhta,mistercore:tmhtb,mistercore:tmnt2,mistercore:tmnt2o,mistercore:tmnta,mistercore:tmntj,mistercore:wndrmomo,mistercore:wwfsstar,mistercore:wwfsstarj,platform:MiSTer
 
+# 2-button (176 games: 1941, 1941j, 1941r1, 1941u, 1944, 1944d, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:19xx*,mistercore:gigawing*,mistercore:spf2*,mistercore:darius*,mistercore:punisher*,mistercore:captcomm*,mistercore:1941*,mistercore:1944*,mistercore:batcir*,mistercore:pang3*,mistercore:dspirit*,mistercore:galaga88*,mistercore:metalb*,mistercore:pacmania*,mistercore:splatter*,mistercore:ws*,mistercore:boxyboy*,mistercore:daimakai*,mistercore:deadconx*,mistercore:dynwarj*,mistercore:flstory*,mistercore:ghouls*,mistercore:mmaze*,mistercore:mustang*,mistercore:onna34ro*,mistercore:vaportra*,mistercore:youkaidk*,mistercore:blastoff,mistercore:blazer,mistercore:bronx,mistercore:colt,mistercore:dangseed,mistercore:dino,mistercore:dinoa,mistercore:dinohunt,mistercore:dinoj,mistercore:dinou,mistercore:dynwara,mistercore:faceoff,mistercore:ffae,mistercore:ffightae_cps2,mistercore:footchmp,mistercore:jyangoku,mistercore:macross,mistercore:nemoja,mistercore:nycaptor,mistercore:pistoldm,mistercore:pmonster,mistercore:rumba,mistercore:shadowld,mistercore:soukobdx,mistercore:strider_fix,mistercore:tankfrce,mistercore:term2,mistercore:wldcourt,mistercore:wof,mistercore:wofa,mistercore:wofch,mistercore:wofhfh,mistercore:wofj,mistercore:wofr1,mistercore:wofu,platform:MiSTer
+
 # 1-button (176 games: abortman, alibaba, alibabab, baby2, baby3, baby4, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:vp*,mistercore:hm*,mistercore:pacms*,mistercore:pmb*,mistercore:puck*,mistercore:chtp*,mistercore:pacb*,mistercore:pacj*,mistercore:mspacm*,mistercore:baby*,mistercore:eyes*,mistercore:newpuck*,mistercore:pacs*,mistercore:pmad*,mistercore:vanvan*,mistercore:vecbaby*,mistercore:alibaba*,mistercore:fastp*,mistercore:hangly*,mistercore:jumpshot*,mistercore:pac2600*,mistercore:paci*,mistercore:pacmini*,mistercore:pacp*,mistercore:pm7000*,mistercore:pmextra*,mistercore:ponpoko*,mistercore:sumelto*,mistercore:xens*,mistercore:abortman,mistercore:beastfp,mistercore:birdiy,mistercore:brakman,mistercore:candory,mistercore:caterpil,mistercore:clubpacm,mistercore:crazypac,mistercore:crush2,mistercore:dizzy,mistercore:dremshpr,mistercore:eeekkp,mistercore:eggor,mistercore:eltonpac,mistercore:europac,mistercore:fasthang,mistercore:fstpman2,mistercore:gorkans,mistercore:hearts,mistercore:jacman,mistercore:lizwiz,mistercore:mazeman,mistercore:mrdonight,mistercore:mrtnt,mistercore:namcosil,mistercore:nwpuc2b,mistercore:ottopza,mistercore:pacelec,mistercore:pacfnt,mistercore:packetman,mistercore:pacm255,mistercore:pacman,mistercore:pacman3d,mistercore:pacmanf,mistercore:pacmanp,mistercore:pacmar,mistercore:pacmod,mistercore:pacupacu,mistercore:pacwf,mistercore:pcrunchy,mistercore:pengman,mistercore:pm1000,mistercore:pm2000,mistercore:pm3000,mistercore:pm4000p,mistercore:pm5000p,mistercore:pm6000,mistercore:pmdeluxe,mistercore:pmfever,mistercore:pmgrenp,mistercore:pplusad,mistercore:roboman,mistercore:snowpac,mistercore:spacempr,mistercore:sprglbpg,mistercore:theglobp,mistercore:ultra2,mistercore:vcrunchy,mistercore:vecpac,mistercore:vectplus,mistercore:vectxens,mistercore:vhangly,mistercore:woodpeck,platform:MiSTer
 
-# 3-button (172 games: 1943j, 1943ja, 1943jah, 1943kai, 1943kais01, 1943mii, ...)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:xmen*,mistercore:bgaregg*,mistercore:batrider*,mistercore:gunsmoke*,mistercore:rungun*,mistercore:ddragon2*,mistercore:bbakraid*,mistercore:parodius*,mistercore:sbasket*,mistercore:sidearms*,mistercore:1943j*,mistercore:crimfght*,mistercore:ddragonu*,mistercore:1943kai*,mistercore:ajax*,mistercore:ddragonb*,mistercore:ddragonw*,mistercore:fround*,mistercore:hyprolym*,mistercore:kuniokun*,mistercore:mia*,mistercore:ngp*,mistercore:renegade*,mistercore:sstriker*,mistercore:trackfld*,mistercore:1943mii,mistercore:1943u,mistercore:1943ue,mistercore:cuebrickj,mistercore:ddonpachjt,mistercore:ddragon,mistercore:ddragon3,mistercore:ddragona,mistercore:ddragonj,mistercore:hpolym84,mistercore:hyperspt,mistercore:kingdmgp,mistercore:mahoudai,mistercore:roishtar,mistercore:shippumd,mistercore:typhoon,mistercore:wwfsstarc,platform:MiSTer
-
-# 2-button (171 games: 1941, 1941j, 1941r1, 1941u, 1944, 1944d, ...)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:19xx*,mistercore:gigawing*,mistercore:spf2*,mistercore:darius*,mistercore:punisher*,mistercore:captcomm*,mistercore:1941*,mistercore:1944*,mistercore:batcir*,mistercore:pang3*,mistercore:dspirit*,mistercore:galaga88*,mistercore:metalb*,mistercore:pacmania*,mistercore:splatter*,mistercore:ws*,mistercore:boxyboy*,mistercore:daimakai*,mistercore:deadconx*,mistercore:dynwarj*,mistercore:flstory*,mistercore:ghouls*,mistercore:mmaze*,mistercore:onna34ro*,mistercore:youkaidk*,mistercore:blastoff,mistercore:blazer,mistercore:bronx,mistercore:colt,mistercore:dangseed,mistercore:dino,mistercore:dinoa,mistercore:dinohunt,mistercore:dinoj,mistercore:dinou,mistercore:dynwara,mistercore:faceoff,mistercore:ffae,mistercore:ffightae_cps2,mistercore:footchmp,mistercore:jyangoku,mistercore:nemoja,mistercore:nycaptor,mistercore:pistoldm,mistercore:pmonster,mistercore:rumba,mistercore:shadowld,mistercore:soukobdx,mistercore:strider_fix,mistercore:tankfrce,mistercore:term2,mistercore:wldcourt,mistercore:wof,mistercore:wofa,mistercore:wofch,mistercore:wofhfh,mistercore:wofj,mistercore:wofr1,mistercore:wofu,platform:MiSTer
+# 3-button (173 games: 1943j, 1943ja, 1943jah, 1943kai, 1943kais01, 1943mii, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:xmen*,mistercore:bgaregg*,mistercore:batrider*,mistercore:gunsmoke*,mistercore:rungun*,mistercore:ddragon2*,mistercore:bbakraid*,mistercore:parodius*,mistercore:sbasket*,mistercore:sidearms*,mistercore:1943j*,mistercore:crimfght*,mistercore:ddragonu*,mistercore:trackfld*,mistercore:1943kai*,mistercore:ajax*,mistercore:ddragonb*,mistercore:ddragonw*,mistercore:fround*,mistercore:hyprolym*,mistercore:kuniokun*,mistercore:mia*,mistercore:ngp*,mistercore:renegade*,mistercore:sstriker*,mistercore:1943mii,mistercore:1943u,mistercore:1943ue,mistercore:cuebrickj,mistercore:ddonpachjt,mistercore:ddragon,mistercore:ddragon3,mistercore:ddragona,mistercore:ddragonj,mistercore:hpolym84,mistercore:hyperspt,mistercore:kingdmgp,mistercore:mahoudai,mistercore:roishtar,mistercore:shippumd,mistercore:typhoon,mistercore:wwfsstarc,platform:MiSTer
 
 # 3-button (139 games: 3wonders, 3wondersb, 3wondersbi, 3wondersh, 3wondersr1, 3wondersu, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:armwar*,mistercore:csclub*,mistercore:megam*,mistercore:3wonders*,mistercore:ecofghtr*,mistercore:ffightj*,mistercore:kod*,mistercore:cawing*,mistercore:ffightu*,mistercore:msword*,mistercore:varth*,mistercore:knights*,mistercore:mercs*,mistercore:sgemf*,mistercore:willow*,mistercore:dimahoo_*,mistercore:mmancp2u*,mistercore:pgea*,mistercore:progear_*,mistercore:area88*,mistercore:choko*,mistercore:pfght*,mistercore:rockman*,mistercore:striderj*,mistercore:strideru*,mistercore:wonder*,mistercore:chikij,mistercore:dynwar,mistercore:ffight,mistercore:ffighta,mistercore:ffightae,mistercore:ganbare,mistercore:gulunpa,mistercore:koshien,mistercore:mpumpkin,mistercore:mtwins,mistercore:nemo,mistercore:nemoj,mistercore:nemor1,mistercore:pnickj,mistercore:pokonyan,mistercore:progear,mistercore:rmancp2j,mistercore:strider,mistercore:uecology,mistercore:unsquad,mistercore:wofch_1,platform:MiSTer
@@ -124,6 +124,9 @@
 # 4-button (punches+kicks) (18 games: theroes, theroes, toutrun, toutrun, toutrun1, toutrun1, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:toutrun*,mistercore:truxton2*,mistercore:theroes,platform:MiSTer
 
+# directions only (17 games: actfancr, actfancr1, actfancr2, actfancrj, citycon, citycona, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:actfancr*,mistercore:edrandy*,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:dcon,mistercore:sdgndmps,platform:MiSTer
+
 # 6-button fighters (16 games: astrass, astrass, elandore, elandore, ffreveng, ffreveng, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,x:b2,leftshoulder:b7,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:ffrev*,mistercore:astrass,mistercore:elandore,mistercore:gaxeduel,mistercore:groovef,mistercore:suikoenb,mistercore:vmahjong,platform:MiSTer
 
@@ -147,6 +150,9 @@
 
 # 1-button (12 games: amidars, anteater, calipso, clowns, frogger, froggers2, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:frogger*,mistercore:theend*,mistercore:amidars,mistercore:anteater,mistercore:calipso,mistercore:clowns,mistercore:mandinga,mistercore:trukker,mistercore:turtles,platform:MiSTer
+
+# directions only (12 games: bloodbro, bloodbroj, bloodbroja, bloodbrok, bloodbrou, cbuster, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbro*,mistercore:cbuster*,mistercore:twocrude*,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
 
 # 4-button (punches+kicks) (12 games: btlfield, btlfield, searchar, searchar, searcharj, searcharj, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b3,rightshoulder:b6,y:b1,lefttrigger:b11,start:b9,back:b8,menuok:b3,menuesc:b0,guide:b9,guide2:h0.4,mistercore:searchar*,mistercore:timesold*,mistercore:btlfield,platform:MiSTer
@@ -202,9 +208,6 @@
 # 4-button (punches+kicks) (9 games: cencourt, cencourt, passsht, passsht, passsht16a, passshta, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:passsht*,mistercore:cencourt,platform:MiSTer
 
-# directions only (9 games: citycon, citycona, cruisin, dcon, ninjaw, ninjaw1, ...)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:ninjaw*,mistercore:citycon*,mistercore:cruisin,mistercore:dcon,mistercore:sdgndmps,platform:MiSTer
-
 # 1-button (9 games: crackhea, housepty, mappy, mappyj, marpy, popeye, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:todruaga*,mistercore:mappy*,mistercore:crackhea,mistercore:housepty,mistercore:marpy,mistercore:popeye,platform:MiSTer
 
@@ -223,8 +226,8 @@
 # 2-button (8 games: psychic5, psychic5, psychic5j, psychic5j, suprloco, suprloco, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:psychic5*,mistercore:suprloco*,platform:MiSTer
 
-# directions only (7 games: bloodbro, bloodbroj, bloodbroja, bloodbrok, bloodbrou, chinagat, ...)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbro*,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
+# 4-button (punches+kicks) (8 games: smashtv, smashtv, smashtv3, smashtv4, smashtv5, smashtv6, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b2,rightshoulder:b1,y:b6,lefttrigger:b11,start:b9,back:b8,menuok:b2,menuesc:b0,guide:b9,guide2:h0.4,mistercore:smashtv*,mistercore:totcarn,platform:MiSTer
 
 # 4-button (punches+kicks) (7 games: finalb, finalbj, finalbu, pulirula, pulirulaa, pulirulaj, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:finalb*,mistercore:pulirula*,mistercore:solfigtr,platform:MiSTer
@@ -313,6 +316,9 @@
 # 2-button (4 games: elevatorb, elevatorb, junglek, junglek)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:elevatorb,mistercore:junglek,platform:MiSTer
 
+# directions only (4 games: excthour, maniach, maniach2, matmania)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:maniach*,mistercore:excthour,mistercore:matmania,platform:MiSTer
+
 # 1-button (4 games: flicky, pitfall2, pitfall2u, spatter)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:pitfall2*,mistercore:flicky,mistercore:spatter,platform:MiSTer
 
@@ -333,9 +339,6 @@
 
 # 2-button (4 games: rtype, rtype, rtypej, rtypej)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:rtype,mistercore:rtypej,platform:MiSTer
-
-# 4-button (punches+kicks) (4 games: smashtv, smashtv, totcarn, totcarn)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b0,a:b2,rightshoulder:b1,y:b6,lefttrigger:b11,start:b9,back:b8,menuok:b2,menuesc:b0,guide:b9,guide2:h0.4,mistercore:smashtv,mistercore:totcarn,platform:MiSTer
 
 # 3-button (4 games: spclone, spclone, spcloneo, spcloneo)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:spclone*,platform:MiSTer
