@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2792 games in 244 unique mapping groups
+# 2796 games in 244 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -223,6 +223,9 @@
 # 2-button (8 games: psychic5, psychic5, psychic5j, psychic5j, suprloco, suprloco, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:psychic5*,mistercore:suprloco*,platform:MiSTer
 
+# directions only (7 games: bloodbro, bloodbroj, bloodbroja, bloodbrok, bloodbrou, chinagat, ...)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbro*,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
+
 # 4-button (punches+kicks) (7 games: finalb, finalbj, finalbu, pulirula, pulirulaa, pulirulaj, ...)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b7,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:finalb*,mistercore:pulirula*,mistercore:solfigtr,platform:MiSTer
 
@@ -345,9 +348,6 @@
 
 # 4-button (punches+kicks) (3 games: aponow, minefld, rescue)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b6,a:b3,rightshoulder:b1,y:b0,lefttrigger:b11,start:b9,back:b8,menuok:b3,menuesc:b6,guide:b9,guide2:h0.4,mistercore:aponow,mistercore:minefld,mistercore:rescue,platform:MiSTer
-
-# directions only (3 games: bloodbroj, chinagat, saiyugou)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:bloodbroj,mistercore:chinagat,mistercore:saiyugou,platform:MiSTer
 
 # 2-button (3 games: cameltry, cameltryj, cameltryu)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b1,guide:b9,guide2:h0.4,mistercore:cameltry*,platform:MiSTer
