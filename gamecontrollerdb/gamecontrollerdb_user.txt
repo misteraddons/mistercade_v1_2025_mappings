@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 2829 games in 248 unique mapping groups
+# 2832 games in 248 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -286,6 +286,9 @@
 # 1-button (5 games: gyruss, gyrussb, gyrussce, snakjack, venus)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,lefttrigger:b11,start:b9,back:b8,menuesc:b1,guide:b9,guide2:h0.4,mistercore:gyruss*,mistercore:snakjack,mistercore:venus,platform:MiSTer
 
+# directions only (5 games: narc1, narc2, narc3, narc4, narc6)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:narc1,mistercore:narc2,mistercore:narc3,mistercore:narc4,mistercore:narc6,platform:MiSTer
+
 # 3-button (4 games: airass, airass, firebarr, firebarr)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:airass,mistercore:firebarr,platform:MiSTer
 
@@ -367,8 +370,8 @@
 # 3-button (3 games: mayday, maydaya, maydayb)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:mayday*,platform:MiSTer
 
-# directions only (3 games: narc1, narc2, narc6)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,lefttrigger:b11,start:b9,back:b8,guide:b9,guide2:h0.4,mistercore:narc1,mistercore:narc2,mistercore:narc6,platform:MiSTer
+# 2-button (3 games: mkla1, mkla2, mkla3)
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b2,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkla1,mistercore:mkla2,mistercore:mkla3,platform:MiSTer
 
 # 6-button fighters (3 games: spyhunt, spyhuntp, turbotag)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,y:b3,x:b2,leftshoulder:b7,back:b8,menuok:b0,menuesc:b1,guide2:h0.4,mistercore:spyhunt*,mistercore:turbotag,platform:MiSTer
@@ -534,9 +537,6 @@
 
 # 3-button (2 games: megrescu, megrescu)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:megrescu,platform:MiSTer
-
-# 2-button (2 games: mkla1, mkla3)
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b2,a:b7,lefttrigger:b11,start:b9,back:b8,menuok:b7,menuesc:b2,guide:b9,guide2:h0.4,mistercore:mkla1,mistercore:mkla3,platform:MiSTer
 
 # 3-button (2 games: mplanets, mplanets)
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,b:b1,a:b0,rightshoulder:b6,start:b9,back:b8,menuok:b0,menuesc:b1,guide:b9,guide2:h0.4,mistercore:mplanets,platform:MiSTer
