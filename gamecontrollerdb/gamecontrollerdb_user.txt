@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4397 games in 370 unique mapping groups
+# 4398 games in 370 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -3609,6 +3609,9 @@
 
 # 2-button: bombrman
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:bombrman,platform:MiSTer
+
+# 2-button: bonzeadv
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:bonzeadv,platform:MiSTer
 
 # 2-button: boogwing*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:boogwing*,platform:MiSTer
