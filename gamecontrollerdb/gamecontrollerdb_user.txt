@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 4457 games in 375 unique mapping groups
+# 4463 games in 376 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -2089,8 +2089,8 @@
 # 1-button: arabian
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b3,lefttrigger:b11,start:b9,back:b8,menuok:b3,guide:b9,guide2:h0.4,mistercore:arabian,platform:MiSTer
 
-# 2-button: arescue
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:arescue,platform:MiSTer
+# 2-button: arescue*
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:arescue*,platform:MiSTer
 
 # 2-button: arkarea
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:arkarea,platform:MiSTer
@@ -4248,6 +4248,9 @@
 
 # 4-button (punches+kicks): fhboxers
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:fhboxers,platform:MiSTer
+
+# 3-button: finalapr*
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,lefttrigger:b10,righttrigger:b11,back:b8,menuok:b1,menuesc:b0,guide2:h0.4,mistercore:finalapr*,platform:MiSTer
 
 # 2-button: finalizr
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:finalizr,platform:MiSTer
