@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5367 games in 495 unique mapping groups
+# 5369 games in 495 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -130,8 +130,8 @@
 # 6-button fighters: mk3
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b3,x:b6,y:b0,leftshoulder:b2,rightshoulder:b7,start:b9,back:b8,menuok:b1,menuesc:b3,guide:b9,guide2:h0.4,mistercore:mk3,platform:MiSTer
 
-# 7-button: mk4
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,leftshoulder:b2,rightshoulder:b7,lefttrigger:b4,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:mk4,platform:MiSTer
+# 6-button fighters: mk4
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b6,x:b0,y:b3,leftshoulder:b2,rightshoulder:b7,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b6,guide:b9,guide2:h0.4,mistercore:mk4,platform:MiSTer
 
 # 6-button fighters: msh*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,leftshoulder:b2,rightshoulder:b7,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:msh*,platform:MiSTer
@@ -1254,6 +1254,9 @@
 
 # 3-button: tturf
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:tturf,platform:MiSTer
+
+# 2-button: turbo
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:turbo,platform:MiSTer
 
 # 6-button fighters: vampj*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,leftshoulder:b2,rightshoulder:b7,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:vampj*,platform:MiSTer
@@ -4096,6 +4099,9 @@
 # 2-button: wardner*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:wardner*,platform:MiSTer
 
+# 6-button fighters: wargods
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,leftshoulder:b2,rightshoulder:b7,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:wargods,platform:MiSTer
+
 # 1-button: warrior
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,lefttrigger:b11,back:b8,menuok:b1,guide2:h0.4,mistercore:warrior,platform:MiSTer
 
@@ -5581,8 +5587,8 @@
 # 4-button (punches+kicks): introdon
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,lefttrigger:b11,righttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:introdon,platform:MiSTer
 
-# 4-button (punches+kicks): invasnab
-03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,x:b6,y:b3,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:invasnab,platform:MiSTer
+# 2-button: invasnab
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:invasnab,platform:MiSTer
 
 # 2-button: inyourfa
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:inyourfa,platform:MiSTer
