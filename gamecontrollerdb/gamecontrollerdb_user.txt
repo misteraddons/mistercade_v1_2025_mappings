@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5707 games in 518 unique mapping groups
+# 5710 games in 519 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -4185,6 +4185,9 @@
 
 # 2-button: tacscan
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:tacscan,platform:MiSTer
+
+# 6-button fighters: tattass
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b3,b:b1,x:b2,y:b0,leftshoulder:b7,rightshoulder:b6,lefttrigger:b11,start:b9,back:b8,menuok:b3,menuesc:b1,guide:b9,guide2:h0.4,mistercore:tattass,platform:MiSTer
 
 # 2-button: tcobra2*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:tcobra2*,platform:MiSTer
@@ -8418,6 +8421,12 @@
 
 # 3-button: progearud
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b6,b:b0,x:b1,lefttrigger:b11,start:b9,back:b8,menuok:b6,menuesc:b0,guide:b9,guide2:h0.4,mistercore:progearud,platform:MiSTer
+
+# 1-button: puchicarj
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,guide:b9,guide2:h0.4,mistercore:puchicarj,platform:MiSTer
+
+# 1-button: puchicaru
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,lefttrigger:b10,righttrigger:b11,start:b9,back:b8,menuok:b1,guide:b9,guide2:h0.4,mistercore:puchicaru,platform:MiSTer
 
 # 2-button: raiden2au
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,b:b0,lefttrigger:b11,start:b9,back:b8,menuok:b1,menuesc:b0,guide:b9,guide2:h0.4,mistercore:raiden2au,platform:MiSTer
