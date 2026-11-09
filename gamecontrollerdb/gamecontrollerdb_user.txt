@@ -1,5 +1,5 @@
 # MiSTercade gamecontroller database (grouped by identical mappings)
-# 5710 games in 519 unique mapping groups
+# 5711 games in 520 unique mapping groups
 # Versions: V1-2025
 #
 # Button mapping: MiSTercade -> Xbox
@@ -2730,6 +2730,9 @@
 
 # 1-button: atetris*
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,lefttrigger:b11,start:b9,back:b8,menuok:b1,guide:b9,guide2:h0.4,mistercore:atetris*,platform:MiSTer
+
+# 4-button (punches+kicks): aztarac
+03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b0,b:b3,x:b1,y:b6,lefttrigger:b11,start:b9,back:b8,menuok:b0,menuesc:b3,guide:b9,guide2:h0.4,mistercore:aztarac,platform:MiSTer
 
 # 1-button: azurian
 03000000d0160000be10000001010000,MiSTercade V1,dpright:h0.2,dpleft:h0.8,dpdown:h0.4,dpup:h0.1,a:b1,start:b9,back:b8,menuok:b1,guide:b9,guide2:h0.4,mistercore:azurian,platform:MiSTer
